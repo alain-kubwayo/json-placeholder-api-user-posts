@@ -11,3 +11,9 @@ https://jsonplaceholder.typicode.com/users
 * Every user is displayed with a “Get User’s Posts” button. When that button is clicked, display a list of posts by that user 
 
 The website is hosted on GitHub Pages. Click [here](https://alain-kubwayo.github.io/interactive-webpage-JSONPlaceholderAPI/) to check it out if you are interested. 
+
+## Tools Used:
+* HTML
+* CSS
+* JavaScript
+* JSON Placeholder API
