@@ -1,6 +1,6 @@
-# interactive-webpage-JSONPlaceholderAPI
+# JSON Placeholder API Users' Posts
 
-This is a dynamic and interactive web page built with HTML, CSS, and Vanilla and JS hosted on Github pages at this [link](https://alain-kubwayo.github.io/interactive-webpage-JSONPlaceholderAPI/)
+This is a dynamic and interactive web page built with HTML, CSS, and Vanilla and JS hosted on Github pages at this [link](https://alain-kubwayo.github.io/json-placeholder-api-user-posts/)
 
 ## Functionalities
 
